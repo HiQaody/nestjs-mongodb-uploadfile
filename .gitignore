@@ -1,0 +1,4 @@
+.env*
+/public/uploads/*
+/public/compressed/*
+/node_modules/*
